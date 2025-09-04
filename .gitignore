@@ -61,3 +61,4 @@ ENV/
 mymathlib/.pytest_cache/
 mymathlib/src/mymathlib/__pycache__/
 mymathlib/tests/__pycache__/
+mymathlib/venv/*
