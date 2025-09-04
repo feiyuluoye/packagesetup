@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mymathlib"
+version = "1.0.0"
+description = "A comprehensive mathematical operations library"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["math", "mathematics", "calculator", "statistics"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/mymathlib"
+Documentation = "https://github.com/yourusername/mymathlib/wiki"
+Repository = "https://github.com/yourusername/mymathlib"
+Issues = "https://github.com/yourusername/mymathlib/issues"

@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mymathlib/__init__.py
+src/mymathlib/advanced.py
+src/mymathlib/constants.py
+src/mymathlib/core.py
+src/mymathlib.egg-info/PKG-INFO
+src/mymathlib.egg-info/SOURCES.txt
+src/mymathlib.egg-info/dependency_links.txt
+src/mymathlib.egg-info/top_level.txt
+tests/test_advanced.py
+tests/test_constants.py
+tests/test_core.py
