@@ -134,5 +134,5 @@ python setup.py sdist bdist_wheel
 
 ## 作者信息
 
-- Your Name
-- your.email@example.com
+- fengduke
+- xingyaochenguang@163.com
